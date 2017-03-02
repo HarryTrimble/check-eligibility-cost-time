@@ -1,6 +1,6 @@
 # Check eligibility, cost and time
 
-Design pattern for users check first eligibility, cost and time for using a service
+Design pattern for users check first eligibility, cost and time for using a service.
 
 [Prototyped example](https://check-eligibility-cost-time.herokuapp.com/)
 
@@ -8,9 +8,9 @@ Design pattern for users check first eligibility, cost and time for using a serv
 
 Pages:
 
-- Introduction page
-- Question pages
-- Ineligible page
-- Eligible page
-- Cost page
-- Time page
+- [Introduction page](https://check-eligibility-cost-time.herokuapp.com/pages/introduction)
+- [Question pages](https://check-eligibility-cost-time.herokuapp.com/pages/questions/over-18)
+- [Ineligible page](https://check-eligibility-cost-time.herokuapp.com/pages/ineligible)
+- [Eligible page](https://check-eligibility-cost-time.herokuapp.com/pages/eligible)
+- [Cost page](https://check-eligibility-cost-time.herokuapp.com/pages/cost)
+- [Time page](https://check-eligibility-cost-time.herokuapp.com/pages/time)
