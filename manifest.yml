@@ -1,0 +1,6 @@
+---
+applications:
+- name: check-before-start-pattern
+  command: npm start
+  memory: 256M
+  buildpack: nodejs_buildpack
